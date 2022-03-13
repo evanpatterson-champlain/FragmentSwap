@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment Swap</string>
+
+    <string name="chart">Chart</string>
+    <string name="home">Home</string>
+    <string name="chart_fragment">Chart Fragment</string>
+    <string name="home_fragment">Home fragment</string>
+</resources>
